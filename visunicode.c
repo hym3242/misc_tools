@@ -1,3 +1,4 @@
+//HACK, can only handle 3byte utf-8 1110.... 10...... 10......
 #include <stdio.h>
 #include <unistd.h>
 #include <stdint.h>
