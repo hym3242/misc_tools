@@ -1,4 +1,4 @@
-// compile with `clang -fobjc-arc -framework Cocoa procundercursor.m` (install commandline developer tools with `xcode-select --install` first)
+// compile with `clang -fobjc-arc -framework Cocoa PrintProcessUnderCursor.m` (install commandline developer tools with `xcode-select --install` first)
 // and execute with `./a.out`
 #import <Foundation/Foundation.h>
 #import <AppKit/AppKit.h>
